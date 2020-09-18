@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lashatatkhashvili/myreact.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lashatatkhashvili/myreact.git/static/js/main.28e50ede.chunk.js",
+    "main.js.map": "/lashatatkhashvili/myreact.git/static/js/main.28e50ede.chunk.js.map",
+    "runtime-main.js": "/lashatatkhashvili/myreact.git/static/js/runtime-main.827f4d53.js",
+    "runtime-main.js.map": "/lashatatkhashvili/myreact.git/static/js/runtime-main.827f4d53.js.map",
+    "static/js/2.f1ca1655.chunk.js": "/lashatatkhashvili/myreact.git/static/js/2.f1ca1655.chunk.js",
+    "static/js/2.f1ca1655.chunk.js.map": "/lashatatkhashvili/myreact.git/static/js/2.f1ca1655.chunk.js.map",
+    "index.html": "/lashatatkhashvili/myreact.git/index.html",
+    "precache-manifest.e6f96ddb6d07b3470bbe2f4ef504642a.js": "/lashatatkhashvili/myreact.git/precache-manifest.e6f96ddb6d07b3470bbe2f4ef504642a.js",
+    "service-worker.js": "/lashatatkhashvili/myreact.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lashatatkhashvili/myreact.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1ca1655.chunk.js.LICENSE.txt": "/lashatatkhashvili/myreact.git/static/js/2.f1ca1655.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lashatatkhashvili/myreact.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827f4d53.js",
+    "static/js/2.f1ca1655.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28e50ede.chunk.js"
+  ]
+}
